@@ -22,3 +22,4 @@ duckduckgo-search==8.0.4
 tqdm==4.67.1
 langchain==0.3.26
 structlog==25.4.0
+a2a-sdk==0.2.9
